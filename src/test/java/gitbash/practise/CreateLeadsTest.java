@@ -8,5 +8,6 @@ public class CreateLeadsTest {
 	public void sampleTest()
 	{
 		System.out.println("-- Leads Created --");
+		System.out.println("-- Leads Created YAHOO --");
 	}
 }
